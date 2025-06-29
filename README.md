@@ -49,8 +49,6 @@
 | [Wireshark Analysis](https://github.com/SiddhSamarth/Wireshark-Network-Analysis) | Captured, filtered and analyzed PCAPs for threats. | Wireshark |
 | [Zero Trust Deployment](https://github.com/SiddhSamarth/Zero-Trust-Deployment) | Designed secure micro-segmentation and SDP-based access. | Zero Trust |
 | [Firewall Automation](https://github.com/SiddhSamarth/Firewall-Automation) | Bash script for automated UFW rule generation & restoration. | Bash |
-| [Smart Contract Audit](https://github.com/SiddhSamarth/Smart-Contract-Audit) | Symbolic/concolic execution of Solidity contracts to detect vulnerabilities. | Solidity, LLM, Manticore |
-| [OSINT Toolkit](https://github.com/SiddhSamarth/OSINT-Automation) | OSINT automation without API keys using CLI tools. | Bash, Sherlock, phoneinfoga |
 
 ---
 
