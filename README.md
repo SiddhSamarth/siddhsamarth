@@ -1,80 +1,114 @@
-<!-- HEADER BANNER -->
+<!-- ✨ WAVE HEADER ✨ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=Siddh%20Samarth&fontSize=50&fontColor=ffffff&animation=twinkling" />
 </p>
 
-<h3 align="center">👨‍💻 Software Engineering Student | 🛡️ Cybersecurity Enthusiast</h3>
+<h3 align="center">🧠 Cybersecurity Enthusiast | 🛡️ Threat Hunter | 🧑‍💻 B.Tech CSE @ BIT Mesra</h3>
 
 <p align="center">
-  <a href="mailto:siddhsamarth@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/samarthsiddh/">🔗 LinkedIn</a> •
-  <a href="https://github.com/SiddhSamarth">🐙 GitHub</a>
+  <a href="mailto:siddhsamarth@gmail.com"><img src="https://img.shields.io/badge/Gmail-siddhsamarth%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/samarthsiddh/"><img src="https://img.shields.io/badge/LinkedIn-SamarthSiddh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/SiddhSamarth"><img src="https://img.shields.io/badge/GitHub-SiddhSamarth-black?style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧬 About Me
 
-I'm a final-year B.Tech Computer Science student at **BIT Mesra**, currently undergoing **Cybersecurity Training at IIT Guwahati**. I specialize in **network security, smart contract auditing, malware analysis, and SIEM-based incident response**. Passionate about applying defensive and offensive security skills to protect digital infrastructure.
+🚀 Final-year Computer Science & Engineering student at **BIT Mesra**  
+🔐 Cybersecurity Trainee at **IIT Guwahati (2024–25)**  
+👨‍💻 Interned at **IIT Patna (Blockchain Security)** and **Teachnook (Malware Analysis)**  
+🎯 Focused on: Network Security · Smart Contract Auditing · Threat Hunting · SIEM Automation · Reverse Engineering  
+💡 I build tools to secure networks, automate incident response, and investigate malware
 
 ---
 
-## 🛠️ Skills & Tools
+## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,powershell,linux,azure,git,github,wireshark" /><br>
-  <img src="https://skillicons.dev/icons?i=sql,vscode,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,bash,powershell,linux,azure,sql,solidity,vscode,git,github,figma" />
 </p>
 
-- **Languages:** Python, Bash, PowerShell, SQL  
-- **Security Tools:** Wireshark, Nmap, Nessus, Nikto, Hashcat, Aircrack-ng, AndroGuard  
-- **SIEM & Monitoring:** Azure Sentinel, KQL, ELK Stack  
-- **Concepts:** Threat Hunting · Malware Analysis · Packet Inspection · Smart Contract Security
+| 🔍 Category | ⚡ Technologies |
+|------------|----------------|
+| **Languages** | Python · Bash · PowerShell · SQL · Solidity |
+| **Security Tools** | Nmap · Wireshark · Nessus · Nikto · Hashcat · Aircrack-ng · AndroGuard |
+| **SIEM & IR** | Azure Sentinel · KQL · MITRE ATT&CK · ELK Stack |
+| **Concepts** | Packet Analysis · Malware Analysis · Threat Detection · OSINT · Smart Contract Exploits |
 
 ---
 
-## 📂 Featured Projects
+## 🚀 My Projects
 
-| Project Name                                                                 | Description                                                                                                                                   | Tech Stack |
-|------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|------------|
-| 🔍 [SIEM-Investigation](https://github.com/SiddhSamarth/SIEM-Investigation)  | Full threat hunting pipeline using Azure Sentinel simulating Solorigate attack. Includes advanced KQL, ASIM normalization, MITRE ATT&CK map. | Azure, KQL |
-| 🐞 [Malware-Analysis](https://github.com/SiddhSamarth/Malware-Analysis)       | Android malware analysis using AndroGuard; includes reverse engineering and signature creation.                                               | Python, AndroGuard |
-| 🔐 [Vulnerability-Assessment](https://github.com/SiddhSamarth/Vulnerability-Assessment) | Vulnerability scanning with Nmap, Nikto, and Nessus; auto-report generation.                                                                 | Bash, Nessus |
-| 🚨 [Incident-Response](https://github.com/SiddhSamarth/Incident-Response)     | Playbook for incident response integrated with ELK Stack and MITRE mapping.                                                                  | ELK Stack, KQL |
-| 🌐 [Wireshark-Network-Analysis](https://github.com/SiddhSamarth/Wireshark-Network-Analysis) | Real-time packet analysis, anomaly detection, and protocol filtering using Wireshark.                                                        | Wireshark |
-| 🧱 [Zero-Trust-Deployment](https://github.com/SiddhSamarth/Zero-Trust-Deployment) | Designed a Zero-Trust network model for enterprises with software-defined perimeters.                                                        | Network Security |
-| ⚙️ [Firewall-Automation](https://github.com/SiddhSamarth/Firewall-Automation) | Automated UFW firewall configuration with rule-based packet filtering and restoration.                                                       | Bash |
-| 🕵️ [OSINT-Automation](https://github.com/SiddhSamarth/OSINT-Automation)       | Bash-based OSINT toolkit using Sherlock, theHarvester, and phoneinfoga without API keys.                                                     | Bash |
-| 🔗 [Smart-Contract-Audit](https://github.com/SiddhSamarth/Smart-Contract-Audit) | Audited Solidity smart contracts using symbolic and concolic execution for vulnerability detection.                                          | Solidity, LLMs |
-
----
-
-## 🏆 Certifications
-
-- ✅ Post Graduate Program in Cyber Security  
-- 🏅 Foundations of Cyber Security  
-- 🎓 IIT Patna Blockchain Security Internship Certificate  
-- 🎓 Teachnook Network & Malware Analysis Certificate  
+| 🔗 Project | 📝 Description | 🛠 Tools |
+|-----------|----------------|----------|
+| [SIEM-Investigation](https://github.com/SiddhSamarth/SIEM-Investigation) | Simulated Solorigate attack in Azure Sentinel using ASIM + KQL + MITRE. | Azure, KQL, MITRE |
+| [Malware Analysis](https://github.com/SiddhSamarth/Malware-Analysis) | Reverse engineered Android malware using AndroGuard. | Python, AndroGuard |
+| [Vulnerability Assessment](https://github.com/SiddhSamarth/Vulnerability-Assessment) | Used Nmap, Nikto & Nessus for vulnerability scanning & automated reports. | Bash, Nikto, Nessus |
+| [Incident Response](https://github.com/SiddhSamarth/Incident-Response) | Created playbooks for SIEM triage and log analysis. | KQL, ELK |
+| [Wireshark Analysis](https://github.com/SiddhSamarth/Wireshark-Network-Analysis) | Captured, filtered and analyzed PCAPs for threats. | Wireshark |
+| [Zero Trust Deployment](https://github.com/SiddhSamarth/Zero-Trust-Deployment) | Designed secure micro-segmentation and SDP-based access. | Zero Trust |
+| [Firewall Automation](https://github.com/SiddhSamarth/Firewall-Automation) | Bash script for automated UFW rule generation & restoration. | Bash |
+| [Smart Contract Audit](https://github.com/SiddhSamarth/Smart-Contract-Audit) | Symbolic/concolic execution of Solidity contracts to detect vulnerabilities. | Solidity, LLM, Manticore |
+| [OSINT Toolkit](https://github.com/SiddhSamarth/OSINT-Automation) | OSINT automation without API keys using CLI tools. | Bash, Sherlock, phoneinfoga |
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📜 Certifications
+
+- 🧠 **Foundations of Cybersecurity**
+- 🛡️ **Post Graduate Program in Cybersecurity**
+- 🎓 **IIT Patna – Blockchain Security Internship**
+- 💻 **Teachnook – Malware & Network Analysis**
+- 🧰 **Tools of the Trade: Linux & SQL**
+
+---
+
+## 🧑‍🎓 Experience
+
+### 🔬 Code Vulnerability Research Intern — **IIT Patna**  
+> Symbolic + concolic analysis of Solidity smart contracts; LLM-enhanced detection pipelines
+
+### 🧪 Trainee — **Teachnook**  
+> Reverse engineering, malware analysis, PCAP inspection, packet filtering
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SiddhSamarth&show_icons=true&theme=react" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddhSamarth&theme=react" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SiddhSamarth&show_icons=true&theme=dark&hide_border=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddhSamarth&theme=dark&hide_border=true" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SiddhSamarth&theme=github_dark" />
 </p>
 
 ---
 
-## 🌐 Let’s Connect
+## 🎨 Visuals & Animations
 
-📧 **Email:** siddhsamarth@gmail.com  
-🔗 **LinkedIn:** [samarthsiddh](https://www.linkedin.com/in/samarthsiddh/)  
-🐙 **GitHub:** [github.com/SiddhSamarth](https://github.com/SiddhSamarth)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00C9FF&center=true&width=435&lines=Network+Security+Engineer;Smart+Contract+Auditor;SIEM+Playbook+Creator;Python+%7C+Bash+%7C+PowerShell;Cyber+Researcher+%7C+CTF+Practitioner" />
+</p>
+
+<p align="center">
+  <img src="https://lottie.host/1839c5ba-1de1-4713-8cd9-775f1745b3b6/vUVkI0cB7b.json" width="300px" />
+</p>
 
 ---
 
+## 🤝 Let’s Connect
+
+- ✉️ Email: siddhsamarth@gmail.com  
+- 🔗 LinkedIn: [samarthsiddh](https://www.linkedin.com/in/samarthsiddh)  
+- 🐙 GitHub: [SiddhSamarth](https://github.com/SiddhSamarth)
+
+---
+
+<!-- ✨ FOOTER WAVE -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=footer"/>
 </p>
+
