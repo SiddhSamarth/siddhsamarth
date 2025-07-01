@@ -75,11 +75,6 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SiddhSamarth&show_icons=true&theme=dark&hide_border=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddhSamarth&theme=dark&hide_border=true" width="47%" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SiddhSamarth&theme=github_dark" />
 </p>
 
