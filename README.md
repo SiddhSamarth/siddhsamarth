@@ -18,8 +18,8 @@
 🚀 Final-year Computer Science & Engineering student at **BIT Mesra**  
 🔐 Cybersecurity Trainee at **IIT Guwahati (2024–25)**  
 👨‍💻 Interned at **IIT Patna (Blockchain Security)** and **Teachnook (Malware Analysis)**  
-🎯 Focused on: Network Security · Smart Contract Auditing · Threat Hunting · SIEM Automation · Reverse Engineering  
-💡 I build tools to secure networks, automate incident response, and investigate malware
+🎯 Focused on: Network Security · Log Analysis · Threat Hunting · SIEM Configuration · EDR    
+💡 I've learnt tools to secure networks, automate incident response, and investigate malware
 
 ---
 
