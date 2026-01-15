@@ -38,7 +38,7 @@
 
 ---
 
-## 🚀 My Projects
+## 🚀 My Selected Projects
 
 | 🔗 Project | 📝 Description | 🛠 Tools |
 |-----------|----------------|----------|
