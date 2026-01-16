@@ -11,7 +11,10 @@
   <a href="https://github.com/SiddhSamarth"><img src="https://img.shields.io/badge/GitHub-SiddhSamarth-black?style=for-the-badge&logo=github" /></a>
 </p>
 
----
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00C9FF&center=true&width=435&lines=Network+Security+Engineer;Smart+Contract+Auditor;SIEM+Playbook+Creator;Python+%7C+Bash+%7C+PowerShell;Cyber+Researcher+%7C+CTF+Practitioner" />
+</p>
 
 ## 🧬 About Me
 
@@ -76,18 +79,6 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SiddhSamarth&theme=github_dark" />
-</p>
-
----
-
-## 🎨 Visuals & Animations
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00C9FF&center=true&width=435&lines=Network+Security+Engineer;Smart+Contract+Auditor;SIEM+Playbook+Creator;Python+%7C+Bash+%7C+PowerShell;Cyber+Researcher+%7C+CTF+Practitioner" />
-</p>
-
-<p align="center">
-  <img src="https://lottie.host/1839c5ba-1de1-4713-8cd9-775f1745b3b6/vUVkI0cB7b.json" width="300px" />
 </p>
 
 ---
