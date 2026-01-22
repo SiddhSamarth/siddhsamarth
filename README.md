@@ -6,7 +6,7 @@
 <h3 align="center">🧠 Cybersecurity Enthusiast | 🛡️ Threat Hunter | 🧑‍💻 B.Tech CSE @ BIT Mesra</h3>
 
 <p align="center">
-  <a href="mailto:siddhsamarth@gmail.com"><img src="https://img.shields.io/badge/Gmail-siddhsamarth%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:siddhsamarthsp@gmail.com"><img src="https://img.shields.io/badge/Gmail-siddhsamarthsp%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/samarthsiddh/"><img src="https://img.shields.io/badge/LinkedIn-SamarthSiddh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/SiddhSamarth"><img src="https://img.shields.io/badge/GitHub-SiddhSamarth-black?style=for-the-badge&logo=github" /></a>
 </p>
