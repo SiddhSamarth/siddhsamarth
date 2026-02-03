@@ -16,7 +16,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00C9FF&center=true&width=435&lines=Network+Security+Engineer;Smart+Contract+Auditor;SIEM+Playbook+Creator;Python+%7C+Bash+%7C+PowerShell;Cyber+Researcher+%7C+CTF+Practitioner" />
 </p>
 
-## 🧬 About Me
+## About Me
 
 🚀 Final-year Computer Science & Engineering student at **BIT Mesra**  
 🔐 Cybersecurity Trainee at **IIT Guwahati (2024–25)**  
@@ -26,7 +26,7 @@
 
 ---
 
-## ⚙️ Tech Stack
+## T ech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,powershell,linux,azure,sql,solidity,vscode,git,github,figma" />
@@ -41,7 +41,7 @@
 
 ---
 
-## 🚀 My Selected Projects
+## My Selected Projects
 
 | 🔗 Project | 📝 Description | 🛠 Tools |
 |-----------|----------------|----------|
@@ -55,7 +55,7 @@
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - 🧠 **Foundations of Cybersecurity**
 - 🛡️ **Post Graduate Program in Cybersecurity**
@@ -65,7 +65,7 @@
 
 ---
 
-## 🧑‍🎓 Experience
+## Experience
 
 ### 🔬 Code Vulnerability Research Intern — **IIT Patna**  
 > Symbolic + concolic analysis of Solidity smart contracts; LLM-enhanced detection pipelines
@@ -75,7 +75,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SiddhSamarth&theme=github_dark" />
@@ -83,7 +83,7 @@
 
 ---
 
-## 🤝 Let’s Connect
+## Let’s Connect
 
 - ✉️ Email: siddhsamarth@gmail.com  
 - 🔗 LinkedIn: [samarthsiddh](https://www.linkedin.com/in/samarthsiddh)  
