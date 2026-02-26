@@ -26,7 +26,7 @@
 
 ---
 
-## T ech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,powershell,linux,azure,sql,solidity,vscode,git,github,figma" />
