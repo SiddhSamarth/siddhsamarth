@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=Siddh%20Samarth&fontSize=50&fontColor=ffffff&animation=twinkling" />
 </p>
 
-<h3 align="center">🧠 Cybersecurity Enthusiast | 🛡️ Threat Hunter | 🧑‍💻 B.Tech CSE @ BIT Mesra</h3>
+<h3 align="center">Cybersecurity Analyst | Detection Engineering & SOC | B.Tech CSE @ BIT Mesra</h3>
 
 <p align="center">
   <a href="mailto:siddhsamarthsp@gmail.com"><img src="https://img.shields.io/badge/Gmail-siddhsamarthsp%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -17,11 +17,10 @@
 
 ## About Me
 
-🚀 Final-year Computer Science & Engineering student at **BIT Mesra**  
-🔐 Cybersecurity Trainee at **IIT Guwahati (2024–25)**  
-👨‍💻 Interned at **IIT Patna (Blockchain Security)** and **Teachnook (Malware Analysis)**  
-🎯 Focused on: Applied Machine Learning in SOC · Log Analysis · Threat Hunting · SIEM Configuration · Network Forensics  
-💡 Building practical tools to model telemetry baselines, automate threat intelligence, and investigate cyber attacks.
+* Computer Science & Engineering student at **BIT Mesra**
+* Cybersecurity Trainee at **IIT Guwahati (2024–25)**
+* Previous research and trainee experience at **IIT Patna (Blockchain Security)** and **Teachnook (Malware Analysis)**
+* Technical focus: Applied Machine Learning in Detection Engineering, Cloud SIEM Triage (Sentinel / KQL), Network Forensics, and Log Auditing.
 
 ---
 
@@ -31,19 +30,19 @@
   <img src="https://skillicons.dev/icons?i=python,bash,powershell,linux,azure,tensorflow,react,nextjs,typescript,git,github" />
 </p>
 
-| 🔍 Category | ⚡ Technologies |
-|------------|----------------|
-| **Languages & Scripting** | Python (TensorFlow, Keras, Scikit-Learn, Pandas, NumPy) · Bash · PowerShell · SQL |
-| **Security & SIEM Tools** | Azure Sentinel · KQL · ASIM · Tenable Nessus · Wireshark · PeStudio · Procmon · UFW |
-| **Security Frameworks** | MITRE ATT&CK · NIST SP 800-61 / 800-207 · Zero Trust Architecture · SANS PICERL · OWASP Top 10 |
-| **Forensics & Analysis** | Deep Packet Inspection · PE Header Analysis · RFC 822 Email Forensics · Anomaly Detection |
+| Category | Technologies |
+| :--- | :--- |
+| **Languages & Scripting** | Python (TensorFlow, Keras, Scikit-Learn, Pandas, NumPy), Bash, PowerShell, SQL |
+| **Security & SIEM Tools** | Azure Sentinel, KQL, ASIM, Tenable Nessus, Wireshark, PeStudio, Procmon, UFW |
+| **Security Frameworks** | MITRE ATT&CK, NIST SP 800-61 / 800-207, Zero Trust Architecture, SANS PICERL, OWASP Top 10 |
+| **Forensics & Analysis** | Deep Packet Inspection, PE Header Analysis, RFC 822 Email Forensics, Log Anomaly Detection |
 
 ---
 
 ## Featured Cybersecurity Projects
 
-| 🔗 Project | 📝 Description | 🛠 Tools |
-|---|---|---|
+| Project | Description | Technologies |
+| :--- | :--- | :--- |
 | [AI-SOC-Detection-Framework](https://github.com/SiddhSamarth/AI-SOC-Detection-Framework) | Unsupervised deep learning autoencoder anomaly detection engine for security telemetry. | Python, TensorFlow, Keras |
 | [Elevate Labs Practicals](https://github.com/SiddhSamarth/Elevate-Labs-Projects) | 20 practical cybersecurity lab modules covering host firewalls, PCAP forensics, and hardening. | Kali Linux, UFW, Wireshark |
 | [SIEM-Investigation](https://github.com/SiddhSamarth/SIEM-Investigation) | Investigated Solorigate supply-chain backdoor in Azure Sentinel using ASIM and KQL hunting queries. | Azure Sentinel, KQL, ASIM |
@@ -56,23 +55,13 @@
 
 ---
 
-## Certifications
-
-- 🧠 **Foundations of Cybersecurity**
-- 🛡️ **Post Graduate Program in Cybersecurity**
-- 🎓 **IIT Patna – Blockchain Security Internship**
-- 💻 **Teachnook – Malware & Network Analysis**
-- 🧰 **Tools of the Trade: Linux & SQL**
-
----
-
 ## Experience
 
-### 🔬 Code Vulnerability Research Intern — **IIT Patna**  
-> Symbolic + concolic analysis of Solidity smart contracts; LLM-enhanced detection pipelines
+### Code Vulnerability Research Intern — BIT / IIT Patna
+* Symbolic and concolic analysis of Solidity smart contracts; LLM-assisted vulnerability identification.
 
-### 🧪 Trainee — **Teachnook**  
-> Reverse engineering, malware analysis, PCAP inspection, packet filtering
+### Trainee — Teachnook
+* Hands-on training in static/dynamic malware analysis, PCAP packet inspection, and firewall configuration.
 
 ---
 
